@@ -1,0 +1,8 @@
+# Ignore large JSON database files
+lichess_db_eval.jsonl.zst
+simplified_db.jsonl
+
+# Ignore other unnecessary files
+geckodriver.log
+latex_outputs/
+.ipynb_checkpoints/
